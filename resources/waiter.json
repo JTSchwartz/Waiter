@@ -1,0 +1,13 @@
+{
+  "waiter": [
+    {
+      "port": 6789,
+      "response": {
+        "status": 200,
+        "body": {
+          "isDefault": true
+        }
+      }
+    }
+  ]
+}
